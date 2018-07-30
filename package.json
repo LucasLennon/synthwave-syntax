@@ -1,0 +1,22 @@
+{
+  "name": "synthwave-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "author": "Lucas Lennon Esperidião <lucasespir@gmail.com>",
+  "description": "Synthwave theme, still on progress",
+  "keywords": [
+    "eighties",
+    "neon",
+    "eletro",
+    "retrowave",
+    "synthwave",
+    "Synthwave",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/LucasLennon/synthwave-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
